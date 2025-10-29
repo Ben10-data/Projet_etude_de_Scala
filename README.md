@@ -76,7 +76,7 @@ scala Main
 ```scala
 object HelloWorld {
   def main(args: Array[String]): Unit = {
-    println("Bonjour, Scala ! 🚀")
+    println("Bonjour, Scala ! C\' Ben. ")
   }
 }
 ```
